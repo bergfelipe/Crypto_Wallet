@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
-  #layout "adm" troca de layout 
+  #layout "adm" 
   def index
-  end
+  end  
 end
